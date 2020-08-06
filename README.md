@@ -12,6 +12,7 @@ For now, I have added the stories and research links for the content in story.tx
 ``` bash
 # install dependencies
 npm install
+npm install firebase vuefire
 
 # serve with hot reload at localhost:8080
 npm run dev
